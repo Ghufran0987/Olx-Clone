@@ -1,0 +1,23 @@
+.all-categories{
+    background-color: #fafbfc;
+}
+
+.items{
+    background-color:white !important;
+    color: #002f34;
+    display: block;
+    padding: 4px;
+    text-decoration: none;
+}
+.items:hover{
+    background-color: white;
+    text-decoration: none;
+    color: #23e5db;
+}
+.items-all{
+    width: 900px;
+    
+}
+.allcatw{
+    margin-top : 76px !important;
+}
